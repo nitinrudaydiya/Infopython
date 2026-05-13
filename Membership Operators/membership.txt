@@ -1,0 +1,8 @@
+In the membership operator check membership in a sequence such list , string and tuples
+
+
+Python offers two membership operator to check and validate the membership of a value .
+
+IN Operator : The IN operator returns True if the given element exist inside the sequence otherwise it gives returns files.
+
+Not in Operator : The not in operator is the opposite of a in operator it returns True if the element is not found in a sequence .

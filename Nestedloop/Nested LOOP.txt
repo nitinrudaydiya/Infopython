@@ -1,0 +1,21 @@
+''' Nested LOOP : 
+            1. Placing loops inside the another loop is called Nested loop.
+    Syntax : NESTED WHILE LOOP
+             initialization 1 
+             while condition1:
+                 body 
+                 initialization2
+                 while condition2:
+                     body of inner loop 
+                     
+                     increment/decrement
+             
+             increment/decrement  
+             
+             NESTED FOR LOOP 
+             for i in range(rows):
+                 body of outer
+                 for j in range(columns):
+                     body of inner 
+'''
+
