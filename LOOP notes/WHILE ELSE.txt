@@ -1,0 +1,26 @@
+# WHILE ELSE
+
+SYNTAX :
+     while condition:
+        loop body
+     if condition:
+         break
+     else:
+         executes when break will not come in picture
+
+// PROGRAM PRACTICE
+
+#  WHILE ELSE
+
+
+attempt = 0
+
+while attempt<3:
+    password = input("Enter the password: ")
+    if password == "admin":
+        print("Granted")
+        break
+    
+    attempt+=1
+else:
+    print("TOO many attempt")
